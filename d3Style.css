@@ -14,7 +14,7 @@
     width: 400px;
     height: 300px;
     content: " ";
-    background-image: url("maxresdefault.jpg");
+    background-image: url("Commuting.jpg");
     background-repeat: no-repeat;
     background-position: 50% 0;
     background-size: cover;
@@ -58,7 +58,7 @@
   }
   
   .inactive:hover {
-    fill: #e75480;
+    fill: #545ee7;
     cursor: pointer;
   }
   
